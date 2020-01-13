@@ -1,0 +1,10 @@
+See the results for 2013: 
+Training results by combining LDA and W2V methods:
+The accuracy of the model Random Forest for training is: 0.979863
+The accuracy of the model Random Forest for testing is: 0.536491
+The accuracy of the model Logistic Regression for training is: 0.506343
+The accuracy of the model Logistic Regression for testing is: 0.504698
+The accuracy of the model SVM for training is: 0.506741
+The accuracy of the model SVM for testing is: 0.506565
+The accuracy of the model KNN for training is: 0.581532
+The accuracy of the model KNN for testing is: 0.482366
